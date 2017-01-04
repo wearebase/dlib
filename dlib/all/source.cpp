@@ -59,7 +59,7 @@
 #include "../image_loader/jpeg_loader.cpp"
 #include "../image_saver/save_jpeg.cpp"
 #endif
-
+/*
 #ifndef DLIB_NO_GUI_SUPPORT
 #include "../gui_widgets/fonts.cpp"
 #include "../gui_widgets/widgets.cpp"
@@ -70,7 +70,7 @@
 #include "../gui_core/gui_core_kernel_1.cpp"
 #include "../gui_core/gui_core_kernel_2.cpp"
 #endif // DLIB_NO_GUI_SUPPORT
-
+*/
 #endif // DLIB_ISO_CPP_ONLY
 
 #endif // DLIB_ALL_SOURCe_
